@@ -2,47 +2,59 @@
 
 [![Website](https://img.shields.io/badge/Website-diogoneto.dev-blue)](https://diogoneto.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-%40diog0net0-1DA1F2)](https://twitter.com/diog0net0)
+[![Medium](https://img.shields.io/badge/Medium-Follow%20me-black)](https://medium.com/@Diog0Net0)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/diogoneto1779)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://app.hackthebox.com/users/2250701)
 
-## 🚀 About Me
-I'm a **self-taught Web Developer** passionate about building functional and engaging web applications. Currently diving deep into the world of **full-stack development** with the goal of landing my first tech job and eventually transitioning into **DevOps**.  
+## 🔐 About Me
+Aspiring Penetration Tester and Cybersecurity Enthusiast, dedicated to mastering the art of ethical hacking. Currently preparing for the eJPT certification while actively sharpening my skills on platforms like TryHackMe and Hack The Box. I regularly share my cybersecurity insights and learning journey on my Medium blog.
 
-When I'm not coding, you'll find me at the gym, reading a good book, exploring new music, or working on exciting **3D printing** projects. 
-
-## 🛠️ Tech Stack
-```javascript
-const skills = {
-    frontend: ['HTML', 'CSS', 'Tailwind','JavaScript', 'TypeScript', 'React', 'Node.js'],
-    learning: ['Full Stack Development', 'DevOps'],
-    Platforms: ['Linux'],
-    currentFocus: 'Building projects to strengthen my portfolio'
+## 🛠️ Security Arsenal
+```python
+arsenal = {
+    'pentesting': ['Network Analysis', 'Web App Security', 'System Exploitation'],
+    'tools': ['Nmap', 'Burp Suite', 'Metasploit', 'Wireshark'],
+    'learning_platforms': ['TryHackMe', 'Hack The Box', 'INE'],
+    'certifications_in_progress': ['eJPT'],
 }
 ```
 
-## 🌱 Currently...
-- 📚 Deep diving into React and TypeScript
-- 🔧 Working on personal projects to apply my learning
-- 🎯 Focusing on full-stack development and DevOps practices
-- 🤝 Open to collaborating on interesting projects
+## 🎯 Current Focus
+- 📚 Preparing for eJPT Certification
+- 🔍 Improving Web Application / Network Penetration Testing skills
+- 🖥️ Practicing on TryHackMe and Hack The Box
+- ✍️ Writing cybersecurity articles on Medium
+- 🛡️ Learning Network Security fundamentals
+- 📝 Documenting my cybersecurity journey
 
-## 🌟 Goals  
-- 💼 Land a role as a **Full-Stack Developer**.  
-- 🛠️ Start contributing to open-source projects.  
-- 🚀 Transition into a **DevOps** role in the future.  
+## 📊 Platform Progress
+<img src="https://tryhackme-badges.s3.amazonaws.com/diogoneto1779.png" alt="TryHackMe">
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoNet0&show_icons=true&theme=dracula)
+## 💪 Skills in Development
+- Network Penetration Testing
+- Web Application Security
+- System Exploitation
+- Security Tool Proficiency
+- Vulnerability Assessment
+- Report Writing
+- Blog Writing
 
-## 💡 Featured Projects
-*Coming soon! Working on exciting projects to showcase my journey in web development.*
+## 🏆 Achievements
+- Active participation in TryHackMe rooms
+- Working through HackTheBox challenges
+- Currently enrolled in INE's eJPT program
+- Regular cybersecurity content creator on Medium
 
 ## 🤝 Let's Connect!
-- 🌐 Check out my work at [diogoneto.dev](https://diogoneto.dev)
-- 🐦 Follow me on [Twitter](https://twitter.com/diog0net0)
-- 📧 Email me [me@diogoneto.dev](mailto:me@diogoneto.dev) 
-- 💬 Ask me about my journey in self-taught web development
+- 🌐 Visit my website at [diogoneto.dev](https://diogoneto.dev)
+- 📝 Read my articles on [Medium](https://medium.com/@Diog0Net0)
+- 🐦 Follow my security journey on [Twitter](https://twitter.com/diog0net0)
+- 🎯 Challenge me on [TryHackMe](https://tryhackme.com/p/diogoneto1779)
+- 🔥 Connect on [HackTheBox](https://app.hackthebox.com/users/2250701)
+- 💬 Ask me about my experience with TryHackMe and Hack The Box
 
-## ⚡ Fun Fact
-Every line of code I write is powered a strong cup of coffee! ☕
+## ⚡ Hacker's Wisdom
+"The quieter you become, the more you are able to hear" - Ram Dass
 
 ---
-*"The only way to do great work is to love what you do." - Steve Jobs*
+*Note: All security testing conducted in authorized environments only. Ethical hacking for the win! 🏴‍☠️*
